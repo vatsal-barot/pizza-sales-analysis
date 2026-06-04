@@ -57,10 +57,12 @@ This project analyzes pizza sales data to uncover insights into customer behavio
 
 ## Project Files
 
-* Dashboard Screenshot : <img width="870" height="497" alt="insights_Page" src="https://github.com/user-attachments/assets/11a895da-1b0c-44a7-9b3f-25459eed9fb9" />
-* Insights Page : <img width="871" height="491" alt="dashboard" src="https://github.com/user-attachments/assets/3a05759f-26a0-4c48-b061-1af65ad48aaf" />
-
+* Dashboard Screenshot
+* Insights Page
 * SQL Analysis
 * Project Documentation
 
 ## Author : Vatsal
+
+<img width="870" height="497" alt="insights_Page" src="https://github.com/user-attachments/assets/11a895da-1b0c-44a7-9b3f-25459eed9fb9" />
+<img width="871" height="491" alt="dashboard" src="https://github.com/user-attachments/assets/3a05759f-26a0-4c48-b061-1af65ad48aaf" />
